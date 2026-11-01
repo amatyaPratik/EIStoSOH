@@ -1,4 +1,4 @@
-# EIStoSOC
+# EIStoSOH
 repo for implementing feature extraction, SOC/SOH predicting ML model for (Li-Ion) batteries
 
 This branch* (1_learning​) : sample code implementations of reference codes and testing for learning purposes.
